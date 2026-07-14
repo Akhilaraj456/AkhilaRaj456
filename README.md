@@ -1,72 +1,91 @@
 <div align="center">
 
-<!-- ─────────────  HEADER  ───────────── -->
+# `AKHILA RAJ`
 
-<h1>Akhila Raj</h1>
+**Making machines intelligent: for energy today, for health tomorrow.**
 
-<p><i>Making machines intelligent: for energy today, for health tomorrow.</i></p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=3000&pause=1000&color=D9A08C&center=true&vCenter=true&width=520&lines=ML+Engineering+Intern+%40+ACWA+Power;CS+(AI)+%2B+Neuroscience+%40+McGill;1st+Place+%E2%80%94+PharmaHacks+2026;Pattern+recognition%2C+from+wind+farms+to+molecules" alt="Typing SVG" />
-</p>
-
-<p>
-  <a href="https://akhilaraj456.github.io"><img src="https://img.shields.io/badge/Portfolio-akhilaraj456.github.io-D9A08C?style=for-the-badge&labelColor=0A0D12" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/akhila-raj456"><img src="https://img.shields.io/badge/LinkedIn-Connect-D9A08C?style=for-the-badge&labelColor=0A0D12&logo=linkedin&logoColor=D9A08C" alt="LinkedIn"></a>
-  <a href="mailto:akilarj05@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-D9A08C?style=for-the-badge&labelColor=0A0D12&logo=gmail&logoColor=D9A08C" alt="Email"></a>
-</p>
+<a href="https://akhilaraj456.github.io">
+  <img src="https://img.shields.io/badge/PORTFOLIO-D9A08C?style=for-the-badge&labelColor=0A0D12" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/akhila-raj456">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A0D12?style=for-the-badge&labelColor=0A0D12&color=76818E" alt="LinkedIn">
+</a>
+<a href="mailto:akilarj05@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0A0D12?style=for-the-badge&labelColor=0A0D12&color=76818E" alt="Email">
+</a>
 
 </div>
 
----
+```console
+akhila@monitor:~$ whoami
 
-### About
+  ROLE ......... Machine Learning Engineering Intern @ ACWA Power
+  STUDY ........ B.Sc. Computer Science (AI) + Neuroscience @ McGill
+  BASED ........ Dubai  ⇄  Montréal
+  RECENT ....... 1st Place · PharmaHacks 2026
+  STATUS ....... open to Summer 2027 internships
 
-I'm a Computer Science student at **McGill University**, specialising in Artificial Intelligence with a minor in Neuroscience. I'm currently a **Machine Learning Engineering Intern at ACWA Power** in Dubai, building time-series pipelines and anomaly detection systems for utility-scale wind fleets.
+akhila@monitor:~$ cat thesis.txt
 
-I'm interested in one question, asked in different places: **how do you get a machine to notice the thing that matters, before a human would?** In a turbine, that's a bearing about to fail. In a molecule, it's a toxic substructure. In a patient, it's risk that hasn't presented yet.
+  One question, asked in different places:
+  how do you get a machine to notice the thing that
+  matters, before a human would?
 
-- 🔭 Currently building ML models for wind turbine health monitoring
-- 🏆 1st place at **PharmaHacks 2026** for interpretable drug-toxicity prediction
-- 🌱 Learning React + TypeScript, FastAPI, and MLOps deployment
-- 🤝 Open to **Summer 2027** internships in ML, AI, and healthtech
-- 📫 Reach me at **akilarj05@gmail.com**
+  In a turbine, it's a bearing about to fail.
+  In a molecule, it's a toxic substructure.
+  In a patient, it's risk that hasn't presented yet.
 
----
-
-### Selected work
-
-| Project | What it does | Stack |
-|---|---|---|
-| **🏆 [Lethal Dose](https://github.com/Akhilaraj456)** | 1st place, PharmaHacks 2026. Predicts LD50 drug toxicity from molecular structure with SHAP-based interpretability and a "Toxic Substructure Hunter." R² = 0.65. | `RDKit` `XGBoost` `SHAP` `scikit-learn` |
-| **[MedTwin](https://github.com/Akhilaraj456)** | AI-powered digital patient twin simulating long-term cardiovascular and diabetes risk across treatment scenarios. | `Streamlit` `Plotly` `OpenAI API` |
-| **[Alfred Financier](https://github.com/Akhilaraj456)** | Financial planning platform generating automated budgeting insights and investment dashboards. Built at McHacks 13. | `JavaScript` `Gemini API` |
-| **[AI Cognify](https://github.com/Akhilaraj456)** | Full-stack AI study assistant delivering real-time explanations and interactive support. | `Python` `Node.js` `React` |
-| **[Portfolio](https://github.com/Akhilaraj456/Akhilaraj456.github.io)** | Hand-coded interactive site with a cinematic intro, a working terminal, and a keyboard where every key is a skill. | `HTML` `CSS` `JavaScript` |
-
----
-
-### Toolkit
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,bash&theme=dark" alt="Languages" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn,react,nodejs,flask,git,github,vscode,linux&theme=dark" alt="Tools" />
-</p>
-
-**Machine learning** · scikit-learn · XGBoost · SHAP · RDKit · pandas · NumPy · Matplotlib · Plotly · Streamlit
-**Domains** · Time-series analysis · Anomaly detection · Interpretable ML · Industrial sensor data
-
----
+akhila@monitor:~$ _
+```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akhilaraj456&show_icons=true&hide_border=true&bg_color=0A0D12&title_color=D9A08C&text_color=B6B0A5&icon_color=D9A08C" height="150" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilaraj456&layout=compact&hide_border=true&bg_color=0A0D12&title_color=D9A08C&text_color=B6B0A5" height="150" alt="Top languages" />
+### SELECTED WORK
+
+</div>
+
+| | Project | Result |
+|:--|:--|:--|
+| 🏆 | **Lethal Dose** — interpretable ML predicting LD50 drug toxicity straight from molecular structure. Morgan fingerprints + RDKit descriptors, ensembled across Ridge / Random Forest / XGBoost, with SHAP localising the toxic substructures. | **1st Place, PharmaHacks 2026** · R² 0.65, matching published benchmarks |
+| 🫀 | **MedTwin** — an AI digital patient twin simulating long-term cardiovascular and diabetes risk, with interactive dashboards for comparing treatment scenarios. | McWiCS Hackathon · Streamlit · OpenAI API |
+| 🌬️ | **Open Wind Analytics** — open-source turbine health monitoring on public SCADA data: status-code trending, anomaly flagging, fleet performance analysis. | In progress |
+| 💸 | **Alfred Financier** — full-stack financial planning platform generating automated budgeting insights and investment dashboards. | McHacks 13 · Team of 4 |
+| 🖤 | **[Portfolio](https://github.com/Akhilaraj456/Akhilaraj456.github.io)** — hand-coded, no framework. Cinematic intro, a working terminal, and a keyboard where every key is a skill. | [Live ↗](https://akhilaraj456.github.io) |
+
+<div align="center">
+
+### STACK
+
+<img src="https://img.shields.io/badge/Python-0A0D12?style=flat-square&logo=python&logoColor=D9A08C" alt="">
+<img src="https://img.shields.io/badge/Java-0A0D12?style=flat-square&logo=openjdk&logoColor=D9A08C" alt="">
+<img src="https://img.shields.io/badge/C-0A0D12?style=flat-square&logo=c&logoColor=D9A08C" alt="">
+<img src="https://img.shields.io/badge/JavaScript-0A0D12?style=flat-square&logo=javascript&logoColor=D9A08C" alt="">
+<img src="https://img.shields.io/badge/React-0A0D12?style=flat-square&logo=react&logoColor=D9A08C" alt="">
+<img src="https://img.shields.io/badge/Node.js-0A0D12?style=flat-square&logo=nodedotjs&logoColor=D9A08C" alt="">
+
+<img src="https://img.shields.io/badge/scikit--learn-0A0D12?style=flat-square&logo=scikitlearn&logoColor=D9A08C" alt="">
+<img src="https://img.shields.io/badge/XGBoost-0A0D12?style=flat-square&logo=xgboost&logoColor=D9A08C" alt="">
+<img src="https://img.shields.io/badge/SHAP-0A0D12?style=flat-square&logo=databricks&logoColor=D9A08C" alt="">
+<img src="https://img.shields.io/badge/pandas-0A0D12?style=flat-square&logo=pandas&logoColor=D9A08C" alt="">
+<img src="https://img.shields.io/badge/NumPy-0A0D12?style=flat-square&logo=numpy&logoColor=D9A08C" alt="">
+<img src="https://img.shields.io/badge/Streamlit-0A0D12?style=flat-square&logo=streamlit&logoColor=D9A08C" alt="">
+<img src="https://img.shields.io/badge/Plotly-0A0D12?style=flat-square&logo=plotly&logoColor=D9A08C" alt="">
+
+<img src="https://img.shields.io/badge/Git-0A0D12?style=flat-square&logo=git&logoColor=D9A08C" alt="">
+<img src="https://img.shields.io/badge/Linux-0A0D12?style=flat-square&logo=linux&logoColor=D9A08C" alt="">
+<img src="https://img.shields.io/badge/VS_Code-0A0D12?style=flat-square&logo=visualstudiocode&logoColor=D9A08C" alt="">
+<img src="https://img.shields.io/badge/Jupyter-0A0D12?style=flat-square&logo=jupyter&logoColor=D9A08C" alt="">
 
 <br><br>
 
-<i>Dubai ⇄ Montréal</i>
+<img src="https://github-readme-stats.vercel.app/api?username=Akhilaraj456&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&bg_color=00000000&text_color=B6B0A5&icon_color=D9A08C" height="130" alt="">
+
+<br>
+
+`Time series` · `Anomaly detection` · `Interpretable ML` · `Industrial sensor data` · `Healthtech`
+
+<br>
+
+**Dubai ⇄ Montréal**
 
 </div>
