@@ -2,6 +2,8 @@
 
 # `AKHILA RAJ`
 
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=17&duration=2600&pause=900&color=D9A08C&center=true&vCenter=true&width=560&lines=ML+Engineering+Intern+%40+ACWA+Power;1st+Place+%E2%80%94+PharmaHacks+2026;CS+(AI)+%2B+Neuroscience+%40+McGill;Open+to+Summer+2027+internships" alt="Akhila Raj" />
+
 **Making machines intelligent: for energy today, for health tomorrow.**
 
 <a href="https://akhilaraj456.github.io">
@@ -56,33 +58,41 @@ akhila@monitor:~$ _
 
 ### STACK
 
-<img src="https://img.shields.io/badge/Python-0A0D12?style=flat-square&logo=python&logoColor=D9A08C" alt="">
-<img src="https://img.shields.io/badge/Java-0A0D12?style=flat-square&logo=openjdk&logoColor=D9A08C" alt="">
-<img src="https://img.shields.io/badge/C-0A0D12?style=flat-square&logo=c&logoColor=D9A08C" alt="">
-<img src="https://img.shields.io/badge/JavaScript-0A0D12?style=flat-square&logo=javascript&logoColor=D9A08C" alt="">
-<img src="https://img.shields.io/badge/React-0A0D12?style=flat-square&logo=react&logoColor=D9A08C" alt="">
-<img src="https://img.shields.io/badge/Node.js-0A0D12?style=flat-square&logo=nodedotjs&logoColor=D9A08C" alt="">
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" height="44" alt="Python"><br><sub><b>Python</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="44" height="44" alt="Java"><br><sub><b>Java</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="44" height="44" alt="C"><br><sub><b>C</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript"><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5"><br><sub><b>HTML5</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3"><br><sub><b>CSS3</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="44" height="44" alt="Bash"><br><sub><b>Bash</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="44" height="44" alt="scikit-learn"><br><sub><b>sklearn</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="44" height="44" alt="pandas"><br><sub><b>pandas</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="44" height="44" alt="NumPy"><br><sub><b>NumPy</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="44" height="44" alt="Matplotlib"><br><sub><b>Matplotlib</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="44" height="44" alt="Plotly"><br><sub><b>Plotly</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="44" height="44" alt="Streamlit"><br><sub><b>Streamlit</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="44" height="44" alt="Jupyter"><br><sub><b>Jupyter</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="44" height="44" alt="React"><br><sub><b>React</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js"><br><sub><b>Node.js</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" height="44" alt="Git"><br><sub><b>Git</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="44" height="44" alt="Linux"><br><sub><b>Linux</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="44" height="44" alt="VS Code"><br><sub><b>VS Code</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="44" height="44" alt="IntelliJ"><br><sub><b>IntelliJ</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="44" height="44" alt="Notion"><br><sub><b>Notion</b></sub></td>
+  </tr>
+</table>
 
-<img src="https://img.shields.io/badge/scikit--learn-0A0D12?style=flat-square&logo=scikitlearn&logoColor=D9A08C" alt="">
-<img src="https://img.shields.io/badge/XGBoost-0A0D12?style=flat-square&logo=xgboost&logoColor=D9A08C" alt="">
-<img src="https://img.shields.io/badge/SHAP-0A0D12?style=flat-square&logo=databricks&logoColor=D9A08C" alt="">
-<img src="https://img.shields.io/badge/pandas-0A0D12?style=flat-square&logo=pandas&logoColor=D9A08C" alt="">
-<img src="https://img.shields.io/badge/NumPy-0A0D12?style=flat-square&logo=numpy&logoColor=D9A08C" alt="">
-<img src="https://img.shields.io/badge/Streamlit-0A0D12?style=flat-square&logo=streamlit&logoColor=D9A08C" alt="">
-<img src="https://img.shields.io/badge/Plotly-0A0D12?style=flat-square&logo=plotly&logoColor=D9A08C" alt="">
-
-<img src="https://img.shields.io/badge/Git-0A0D12?style=flat-square&logo=git&logoColor=D9A08C" alt="">
-<img src="https://img.shields.io/badge/Linux-0A0D12?style=flat-square&logo=linux&logoColor=D9A08C" alt="">
-<img src="https://img.shields.io/badge/VS_Code-0A0D12?style=flat-square&logo=visualstudiocode&logoColor=D9A08C" alt="">
-<img src="https://img.shields.io/badge/Jupyter-0A0D12?style=flat-square&logo=jupyter&logoColor=D9A08C" alt="">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akhilaraj456&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&bg_color=00000000&text_color=B6B0A5&icon_color=D9A08C" height="130" alt="">
+`XGBoost` · `SHAP` · `RDKit` · `Time series` · `Anomaly detection` · `Interpretable ML` · `Healthtech`
 
 <br>
 
-`Time series` · `Anomaly detection` · `Interpretable ML` · `Industrial sensor data` · `Healthtech`
+<img src="https://github-readme-stats.vercel.app/api?username=Akhilaraj456&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&bg_color=00000000&text_color=B6B0A5&icon_color=D9A08C" height="130" alt="">
 
 <br>
 
